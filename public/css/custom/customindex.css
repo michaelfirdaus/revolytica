@@ -1,0 +1,40 @@
+
+.header-text{
+    text-align: center;
+    margin: 20px;
+}
+
+.header-logo{
+    margin-top: 20px !important;
+    text-align: center !important;
+    margin-bottom: 0px !important;
+}
+
+.branch-location{
+    text-align: center;
+    font-family: Calibri;
+    color: black;
+    margin-bottom: 30px !important;
+}
+
+.wrapper-btn-start{
+    text-align: center;
+    margin-top: 10px !important;
+}
+
+.btn{
+    font-size: 18px;
+    width: 160px;
+    height: 50px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+.revolyticalogofooter{
+    width: 200px !important;
+    height: 80px !important;
+}
